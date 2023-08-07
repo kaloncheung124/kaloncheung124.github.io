@@ -7,12 +7,12 @@
     color: white;
 }
 
-.App-links {
+.personal-links {
     display: flex;
     justify-content: flex-end;
-    column-gap: 3vmin;
-    padding: 3vmin;
-    font-size: 3vmin;
+    column-gap: 26px;
+    padding: 26px;
+    font-size: 26px;
 }
 
 .link {
@@ -43,13 +43,12 @@
     flex: 1;
     display: flex;
     flex-direction: column;
-    padding: 6vmin;
+    padding: 52px;
 }
 
 .App-name {
-    font-weight: 500;
-    font-size: 8vmin;
+    font-size: 72px;
 }
 .App-subtitle {
-    font-size: 3vmin;
+    font-size: 26px;
 }
